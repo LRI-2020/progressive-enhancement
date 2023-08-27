@@ -1,0 +1,38 @@
+p{
+    font-family: serif;
+    color: darkblue;
+    font-size: x-large;
+    line-height: 1.5;
+}
+
+a{
+    background-color: black;
+    color:white;
+    font-size: medium;
+    padding: 3px;
+    font-size: 20px;
+}
+
+a:hover{
+    font-weight: 1000;
+    color: pink ;
+
+}
+
+body{
+    max-width: 90%;
+    margin:auto;
+    background: url("abstract-background-light.avif") no-repeat bottom right, linear-gradient(#CAE2F7, #85B7E8);
+    background-size: cover;
+}
+
+blockquote{
+    width: 50%;
+    margin-left:20%;
+    font-size: 160%;
+    background-color: lightgray;
+    padding:30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+
+}
