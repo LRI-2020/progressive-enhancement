@@ -1,4 +1,4 @@
-p{
+p, li, th, td{
     font-family: serif;
     color: darkblue;
     font-size: x-large;
@@ -35,4 +35,8 @@ blockquote{
     margin-top: 80px;
     margin-bottom: 80px;
 
+}
+
+img{
+    max-width: 200px;
 }
