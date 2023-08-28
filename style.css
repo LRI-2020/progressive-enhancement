@@ -34,9 +34,35 @@ blockquote{
     padding:30px;
     margin-top: 80px;
     margin-bottom: 80px;
+    font-style:italic ;
 
 }
 
 img{
     max-width: 200px;
 }
+
+.Good, .Bad{
+text-transform: uppercase;
+}
+
+.Good{
+    color: green;
+}
+
+.Bad{
+    color: red;
+}
+
+tr:nth-child(even){
+background-color: white;
+}
+
+tr:nth-child(odd){
+    background-color: grey;
+    }
+
+    #storyp1{
+        font-weight: bold;
+    }
+
