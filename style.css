@@ -1,5 +1,5 @@
 p, li, th, td{
-    font-family: serif;
+    font-family: 'Open Sans', sans-serif;   
     color: darkblue;
     font-size: x-large;
     line-height: 1.5;
@@ -40,6 +40,9 @@ blockquote{
 
 img{
     max-width: 200px;
+    float: left;
+    margin-right: 38px;
+    margin-top: 33px;
 }
 
 .Good, .Bad{
